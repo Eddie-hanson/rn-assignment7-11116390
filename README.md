@@ -1,4 +1,4 @@
-# rn-assignment7-11038553# Boutique2
+# rn-assignment7-11116390 # Boutique2
 
 Welcome to Boutique2! This is a simple e-commerce website built with React and Redux.
 
@@ -7,7 +7,6 @@ Welcome to Boutique2! This is a simple e-commerce website built with React and R
 - Homepage
 - Product details page
 - Shopping cart functionality
-
 
 ## Screens
 
@@ -34,7 +33,6 @@ The app consists of the following components:
 - ProductDetails
 - ShoppingCart
 - Checkout
-
 
 ## Installation
 
