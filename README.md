@@ -36,7 +36,7 @@ The app consists of the following components:
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Nana-Yaw-Oteng/rn-assignment7-11038553`
+1. Clone the repository: `git clone https://github.com/Eddie-hanson/rn-assignment7-11116390.git
 2. Navigate to the project directory: `cd Boutique2`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
