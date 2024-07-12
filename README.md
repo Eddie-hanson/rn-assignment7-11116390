@@ -1,4 +1,6 @@
-# rn-assignment7-11116390 # Boutique2
+# rn-assignment7-11116390
+
+## Boutique2
 
 Welcome to Boutique2! This is a simple e-commerce website built with React and Redux.
 
@@ -27,20 +29,16 @@ Here are some screenshots of the website:
 The app consists of the following components:
 
 - Header
-- Footer
 - Navigation
 - ProductList
+- Footer
 - ProductDetails
 - ShoppingCart
 - Checkout
 
-## Installation
+## Cloning
 
 1. Clone the repository: `git clone https://github.com/Eddie-hanson/rn-assignment7-11116390.git
 2. Navigate to the project directory: `cd Boutique2`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions or find any issues, please open an issue or submit a pull request.
